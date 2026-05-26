@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Jagruti AI",
+  "description": "Futuristic landing page for Jagruti AI with matchmaking, founder networking, and AI integration features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
